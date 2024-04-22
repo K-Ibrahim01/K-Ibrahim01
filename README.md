@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on my university project
 - 📫 How to reach me
 - kibrahim41@bzu.student.edu.pk
-
+- Mc quiry
 
 <!---
 K-Ibrahim01/K-Ibrahim01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
